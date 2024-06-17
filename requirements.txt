@@ -1,0 +1,7 @@
+# Example requirements.txt
+
+# Add your project-specific dependencies below:
+beautifulsoup4==4.9.3
+requests==2.26.0
+flask==2.1.1
+selenium==3.141.0
